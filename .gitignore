@@ -67,3 +67,6 @@ surfaceviewcamerarecording/libs/
 .idea/instapk.xml
 instapk.log*
 libs/
+.hgignore
+.idea/vcs.xml
+instapk.properties
